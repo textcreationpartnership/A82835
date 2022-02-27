@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions agreed upon by the Lords and Commons assmbled [sic] in Parliament for Sir Thomas Barrington, Sir William Masham, Sir Martin Lumley, Sir Henry Mildnay of Wansted, Sir Thomas Cheek, Harbottle Grimston Esquire. : Members of the House of Commons and deputie-lievtenants for the county of Essex and committees to be sent into the same county. : And for Sir William Hicks, Sir Richard Everard, Sir Tho. Honywood, Sir Henry Holdcroft, Sir William Roe, Sir William Martin, Sir Iohn Barrington, Timothy Middleton and Iohn Sayer esquires, the rest of the deputy-lievtenants of the said county for preservation of the peace of the said county.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82835</idno>
+            <idno type="STC">Wing E1590A</idno>
+            <idno type="STC">ESTC R175118</idno>
+            <idno type="EEBO-CITATION">45789290</idno>
+            <idno type="OCLC">ocm 45789290</idno>
+            <idno type="VID">172601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172601)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2640:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions agreed upon by the Lords and Commons assmbled [sic] in Parliament for Sir Thomas Barrington, Sir William Masham, Sir Martin Lumley, Sir Henry Mildnay of Wansted, Sir Thomas Cheek, Harbottle Grimston Esquire. : Members of the House of Commons and deputie-lievtenants for the county of Essex and committees to be sent into the same county. : And for Sir William Hicks, Sir Richard Everard, Sir Tho. Honywood, Sir Henry Holdcroft, Sir William Roe, Sir William Martin, Sir Iohn Barrington, Timothy Middleton and Iohn Sayer esquires, the rest of the deputy-lievtenants of the said county for preservation of the peace of the said county.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. N. for Richard Best,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Jesus College (University of Cambridge). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barrington, Thomas, --  Sir.</term>
+               <term>Hicks, William, --  Sir.</term>
+               <term>Peace officers --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Essex (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172601:1"/>
+            <pb facs="tcp:172601:1" rendition="simple:additions"/>
+            <p>
+               <hi>INSTRUCTIONS</hi> Agreed upon by the Lords and Commons aſſmbled in <hi>PARLIAMENT</hi> For Sir <hi>Thomas Barrington,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Maſham,</hi> Sir <hi>Martin Lumley,</hi> Sir <hi>Henry Mildmay,</hi> of Wanſted, Sir <hi>Thomas Cheek, Harboule Grimſton</hi> Eſquire.</p>
+            <p>Members of the Houſe of Commons, and Depu<g ref="char:EOLunhyphen"/>tie-Lievtenants for the County of <hi>Eſſex,</hi> and Committees to be ſent into the ſame County.</p>
+            <p>And for Sir <hi>William Hicks,</hi> Sir <hi>Richard Everard,</hi> Sir <hi>Tho. Honywood,</hi> Sir <hi>Henry Holdcroft,</hi> Sir <hi>William Ree,</hi> Sir <hi>William Martin,</hi> Sir <hi>Iohn Barrington, Timothy Middle<g ref="char:EOLhyphen"/>ton</hi> and <hi>Iohn Sayer</hi> Eſquires, the reſt of the Deputy-Lievtenants of the ſaid County, for preſervation of the peace of the ſaid County.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Lords and Commons that this be forthwith printed.</p>
+                        <closer>
+                           <signed>Iohn Browne. Hen. Elſyng. Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed by A. N. for <hi>Richard Beſt.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172601:2"/>
+            <pb n="1" facs="tcp:172601:2"/>
+            <head>Jnſtructions agreed upon by the Lords and Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment for the County of <hi>Eſſex, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Here as it doth appeare to the Lords and Commons now aſſembled in Parliament, that the King ſeduced by wicked Councell, hath raiſed War againſt the Parliament, and o<g ref="char:EOLhyphen"/>ther his good ſubjects, and hath drawne together great Troopes of Papiſts and ill-affected perſons, and ſent out Commiſſion for the levying of o<g ref="char:EOLhyphen"/>thers, to the great hazard of Religion, and the publicke peace of the Kingdome.</p>
+            <p>You ſhall take ſpeciall care therefore that the Ordinance concerning the <hi>Militia</hi> be from time to time put in execution through the ſaid County
+<pb n="2" facs="tcp:172601:3"/>of <hi>Eſſex.</hi> as you ſhall ſee cauſe; And for that pur<g ref="char:EOLhyphen"/>poſe, you or any two or more of you ſhall have power and authority to Arme, Traine, and put in readineſſe all and every the Inhabitants of that County fit for the Warre, aſwell Trained Bands as other Voluntiers both Horſe and Foote, and them under the Command of ſuch Collonels, Lievtenant-Collonels, Serjeant Majors, Cap<g ref="char:EOLhyphen"/>taines, and other Officers, as the Lievtenant of the ſaid County, or you or any three or more of you ſhall in his abſence nominate and appoint to lead and conduct, aſwell againſt all Forraigne Forces that ſhall in Hoſtile manner invade the ſaid County, as for reſiſting and oppoſing of all other Forces which ſhall bee either within the ſaid County or elſe-where raiſed to the diſtur<g ref="char:EOLhyphen"/>bance of the peace of that County. And the She<g ref="char:EOLhyphen"/>riffe and all other Officers of the ſaid Countie are hereby enjoyned to aſſiſt you, and every of you therein. And if any perſon whatſoever ſhall levie or endeavour to levie or billet any Souldi<g ref="char:EOLhyphen"/>ers, or to raiſe, draw, or keepe together the Trayned-Bands or other Armed Forces of the ſaid Countie, or any other Forces by colour or pretence of any Commiſſion or Warrant from
+<pb n="3" facs="tcp:172601:3"/>his Majeſtie under the great Seale or otherwiſe, without Order or coſent of both Houſes of Parliament. You are to make knowne to the Trayned-Bands, or other Inhabitants of the ſaid Countie, that thoſe who ſhall appeare upon any ſuch Warrant, or obey any ſuch Commiſſion ſhall bee held diſturbers of, and enemies to the publicke peace, and thoſe who ſhall not appeare upon any ſuch Warrant or Commiſſion, nor doe any thing in execution thereof, ſhall bee prote<g ref="char:EOLhyphen"/>cted by both Houſes off Parliament. And you or any one or more of you ſhall in the name, and by the Authoritie of both Houſes of Parliament require and command all perſons to forbeare the execution of ſuch Commiſſion or warrant, and to cauſe the ſame to be delivered up to you, or any of you, to bee ſent to the Speaker of the Houſe of Commons, and you or any two or more of you, are hereby required to draw toge<g ref="char:EOLhyphen"/>ther ſuch of the Trained Bands and other For<g ref="char:EOLhyphen"/>ces of the ſaid Countie as ſhall bee expedient for the ſuppreſſing of all ſuch Aſſemblies, and for the apprehending of all or any perſon or perſons as ſhall after admonition and command by you
+<pb n="4" facs="tcp:172601:4"/>or any of you made unto them, to forbeare the execution of any ſuch Commiſſion or Warrant, or the calling, or gathering, or keeping together of any ſuch forces or Aſſemblies ſtill perſiſt in doeing the ſame, and likewiſe ſuch as ſhall beare Armes by colour of any Warrant or Commiſſion from his Majeſty under the great Seale or other<g ref="char:EOLhyphen"/>wiſe, without Order or conſent of both houſes of Parliament and alſo ſuch diſaffected perſons as ſhall be found raiſing any parties or factions againſt the Parliament, to be ſent up hither to an<g ref="char:EOLhyphen"/>ſwer ſuch their offences as to law and iuſtice ſhall appertaine,</p>
+            <p>You or any one or more of you, ſhall ſtay, ſearch, and examine, or cauſe to be ſtaid, ſearched, and examined all ſuſpitious perſons and carria<g ref="char:EOLhyphen"/>ges, and to ſearch or cauſe to be ſearched all ſuſ<g ref="char:EOLhyphen"/>pitious places, and to ſeize uppon all horſes, Armes, Ammunition, Money, Plate, or other proviſions whatſoever, which you or any one of you ſhall have iuſt cauſe to ſuſpect, is or are raiſed or provided for the fomenting or main<g ref="char:EOLhyphen"/>teyning, any ſuch unnaturall and unlawfull
+<pb n="5" facs="tcp:172601:4"/>War againſt the Parliament and the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>You or any two or more of you, ſhall obſerve and execute the Ordinance of both houſes of Parliament of the 8th of <hi>August</hi> laſt for the ſup<g ref="char:EOLhyphen"/>preſſion of the Rebellion, and Commotion rai<g ref="char:EOLhyphen"/>ſed by the Marqueſſe of <hi>Hartford</hi> in the County of <hi>Somerſhetſhire,</hi> and other Weſterne Counties, and by the Earle of <hi>Northampton</hi> and others in the County of <hi>Leiceſter, Northampton, Warwicke,</hi> and other adioyning parts and of any other Rebellion or Commotion raiſed or that ſhall be raiſed by any other perſon or perſons within the ſaid County of</p>
+            <p>You, or any two or more of you, ſhall con<g ref="char:EOLhyphen"/>duct and leade all ſuch forces of horſe and foot as ſhall be appointed by the Lord Generall the Earle of <hi>Eſsex</hi> for the ſervice of the Parliament and Kingdome, and ſhall fight with, kill and ſlay all ſuch as ſhall by force oppoſe you, or any of you, in the execution of that Ordinance, and all other their Aſſiſtants and ayders, and abettors,
+<pb n="6" facs="tcp:172601:5"/>and you or two of you ſhall levie ſuch other for<g ref="char:EOLhyphen"/>ces of horſe and foote as his Excellence ſhall by his Commiſſion giue you power to levie under ſuch Collonels, Commanders, and other Officers as ſhall bee by him appointed or directed; &amp; you ſhall perſue the ſaid Traitors, &amp; Rebbels and their Adherents in the ſaid County or in any other pla<g ref="char:EOLhyphen"/>ces or Counties of the Kingdome into which they ſhall retire themſelves; all which forces ſo to bee raiſed ſhall haue the ſame pay as the reſt of the Ar<g ref="char:EOLhyphen"/>my is to have; and you ſhall defend and protect his Majeſties ſubjects from violence and oppreſ<g ref="char:EOLhyphen"/>ſion by the illegall Commiſſion of Array or otherwiſe, and you ſhall hinder and forbid the execution of that illegall Commiſſion and in all places to the uttmoſt of your power endeavour to preſerve and reſtore the peace of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>You or any one of you ſhall take from the ſaid Rebells and Traytors all ſuch Armes Ordnance and Ammunition as they have taken from his Majeſties ſubjects, and reſtore the ſame to the owners.</p>
+            <p>
+               <pb n="7" facs="tcp:172601:5"/>
+You or any one or more of you ſhall take care that ſuch reſolutions and Orders of both houſes as have been or ſhall be delivered or ſent downe unto you or any of you be put in execution, and ſhall require the Sheriffes and Juſtices of the Peace, and all other His Majeſties Officers and Subjects of the ſaid County, to be aiding and aſ<g ref="char:EOLhyphen"/>ſiſting unto you &amp; every of you for that purpoſe.</p>
+            <p>You ſhal likewiſe declare unto all men, that it hath ever been, and ſtill ſhall be the care and en<g ref="char:EOLhyphen"/>deavours of the Parliament to provide for His Majeſties ſafety, and that they doe not, nor never did know of any evill intended towards His Ma<g ref="char:EOLhyphen"/>jeſties Perſon, which might move him to require any extraordinary Guard, that his greateſt ſafety is in the affections and fidelity of His Subjects, and in the advice and counſel of His Parliament; and His greateſt danger in withdrawing himſelfe to ſuch diſaffected and malignant perſons, ob<g ref="char:EOLhyphen"/>noxious to juſtice for their great enormities, who under colour of doing Him ſervice have rai<g ref="char:EOLhyphen"/>ſed forces which they labour to encreaſe, to the hazard of ruining Religion and the whole Kingdom.</p>
+            <p>And you or any one or more of you ſhal in the name of the Lords and Commons require the Sheriffs of the ſaid County to publiſh through<g ref="char:EOLhyphen"/>out
+<pb n="8" facs="tcp:172601:6"/>the ſame the Declarations commanded to be publiſhed by both houſes of Parliament, And you, and every of you ſhall endeavour to cleere the proceedings of Parliament from imputati<g ref="char:EOLhyphen"/>ons and aſperſions, and ſhall from time to time certifie us of all things which you conceive neceſ<g ref="char:EOLhyphen"/>ſary for the preſent ſervice, and that we may have a ſpeedy account of it, and that our directions to you, aſwel as your advertiſements to us, may have cleere and ſpeedy paſſage, you and every of you ſhall lay a ſtrict charge upon all Poſtmaſters and Meſſengers, that they doe not ſuffer any Letters or other diſpatches to or from the Parliament to be intercepted or ſtayed, and if any ſhall preſume to make ſtay of any ſuch diſpatches, you and eve<g ref="char:EOLhyphen"/>ry of you ſhal direct the Poſtmaſters and Meſſen<g ref="char:EOLhyphen"/>gers to repaire to t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Juſtices of the Peace, Con<g ref="char:EOLhyphen"/>ſtables, and other Officers for their aid and aſſi<g ref="char:EOLhyphen"/>ſtance, who are hereby required to take ſpeciall care that there be no ſuch interruption.</p>
+            <p>You or any two or more of you are hereby authoriſed and required forthwith to diſarme all Popiſh Recuſants and other dangerous and ill-affected perſons, as well Clergymen as others, as have teſtified or ſhal teſtifie their ill diſpoſitions to the peace of the Kingdom and proceedings of Parliament, and all ſuch Armes, and all other
+<pb n="9" facs="tcp:172601:6"/>Armes formerly taken from Popiſh Recuſants ſhal be imployed by you for the defence of the ſaid County.</p>
+            <p>You or any one or more of you ſhal take care that none of the Recuſants Armes or other Am<g ref="char:EOLhyphen"/>munition of the ſaid County ſhall be taken or carried out of the ſame, upon any pretence or command whatſoever, without warrant from both Houſes of Parliament. And you, or any one or more of you ſhal give order and directions to the Sheriffe of the ſaid County, Juſtices of the Peace, and other Officers, to require and com<g ref="char:EOLhyphen"/>mand all Popiſh Recuſants in the ſaid County to confine themſelves to their dwelling places ac<g ref="char:EOLhyphen"/>cording to the Statute in that caſe provided; and if any ſuch Recuſant ſhal be found to tranſgreſſe therein, you or any one or more of you ſhal cauſe the Juſtice of Peace forthwith to bind them to their good behaviours, and upon refuſall or neglect to give ſecurity, accordingly to commit them to priſon, and further proceed againſt them according to Law.</p>
+            <p>You or any one or more of you ſhal alſo in the name of both houſes of Parliament require all ſuch perſons who have in their cuſtody any part of the publique Magazine of the ſaid County, to deliver the ſame to you or any two of you, to be
+<pb n="10" facs="tcp:172601:7"/>diſpoſed of, and imployed for the defence of the County; and in caſe of refuſall, you are hereby authoriſed to ſeize, take, carry away, and diſpoſe of the ſame for the purpoſe aforeſaid.</p>
+            <p>And you or any two or more of you are like<g ref="char:EOLhyphen"/>wiſe to give charge from both houſes of Parlia<g ref="char:EOLhyphen"/>ment to all Collonels, Captaines, Lieutenants, &amp; all other Officers for the Militia, that they ſhall be obſervant to ſuch directions as they ſhal from time to time receive from the Lord Lieutenant of the ſaid County, or his Deputy, or any of them, for the due performance of any the com<g ref="char:EOLhyphen"/>mands of the ſaid Houſes.</p>
+            <p>You or any one or more of you ſhal reſiſt and repell, and are hereby authoriſed to reſiſt and re<g ref="char:EOLhyphen"/>pell by the power of the ſaid County, and by all other waies and means, all ſuch force and vio<g ref="char:EOLhyphen"/>lence as ſhall be raiſed or brought by any perſon or perſons, to the hinderance or diſturbance of this preſent ſervice, or for the Arreſting or ſei<g ref="char:EOLhyphen"/>zing of the perſons of you or any of you, or any other which ſhal be imployed in performance of the Ordinance, inſtructions, and commands of both houſes of Parliament, for any thing done in execution thereof. And the Sheriffs and Juſtices of peace of the ſaid County, and all other Offi<g ref="char:EOLhyphen"/>cers &amp; ſubjects, are hereby required to be aiding
+<pb n="11" facs="tcp:172601:7"/>and aſſiſting to you and every of you, for the bet<g ref="char:EOLhyphen"/>ter and more ſpeedy execution of the premiſſes.</p>
+            <p>You or any two or more of you ſhall hereby with the conſent of two of the Members of the houſe of Commons aforenamed, have power and authority to fortifie any part or place of the ſaid County, in ſuch manner and ſort as you or any two or more of you, with the conſent of two of the Members of the houſe of Commons as afore<g ref="char:EOLhyphen"/>ſaid ſhal think fit for the ſafety of the ſaid Coun<g ref="char:EOLhyphen"/>ty, and for the more ſecurity of the ſame ſhall ſet ſuch ſeverall guards and forces in all places and Towns of the ſaid County, as you or any two or more of you, with the conſent of any two of the ſaid Members of the houſe of Commons, ſhall thinke fit and requiſite; and to cauſe the Beacons within the ſaid County to be watched, guarded, and fired as occaſion ſhall require.</p>
+            <p>You and every of you ſhall take care to put in execution the Propoſitions and Orders made by the Lords and Commons, now aſſembled in Par<g ref="char:EOLhyphen"/>liament, for bringing in money or Plate to main<g ref="char:EOLhyphen"/>taine Horſe and Armes, for the preſervation of the publique peace, and for the defence of the King and both houſes of Parliament; As alſo o<g ref="char:EOLhyphen"/>ther inſtructions and additions for Deputy-Lieu<g ref="char:EOLhyphen"/>tenants which are Members of the houſe of
+<pb n="12" facs="tcp:172601:8"/>Commons, and other Deputy-Lieutenants of ſeverall Counties concerning the laſt propoſiti<g ref="char:EOLhyphen"/>ons according to a Declaration of the Lords and Commons made thereupon.</p>
+            <p>You or any three or more of you ſhall or may call together the Inhabitants of the County at ſuch times and places as you ſhall thinke fit, and propound to them what Horſe, Men, and Armes they will finde and maintaine, or what money they will contribute for the defence of the ſaid County, which forces and all other forces that ſhall be raiſed in that County by the authority of the Lords and Commons in Parliament, and their Officers, you or any two or more of you ſhall lead, conduct, and imploy for the defence of the ſaid County; and you or any two or more of you ſhall have power to appoint Treaſurers to receive the ſaid Monies ſo raiſed, as aforeſaid, who are hereby required to iſſue forth the ſame, as they ſhal receive order or warrant from you or any two of you under your hands, for the provi<g ref="char:EOLhyphen"/>ding of Armes and Ammunition for the defence and ſecurity of the ſaid County; as alſo for the paying of ſuch Officers and Souldiers as ſhall be leavied and imployed for the purpoſe aforeſaid, and of all other neceſſaries for the defence of the ſaid County.</p>
+            <p>
+               <pb n="13" facs="tcp:172601:8"/>
+You or any three or more of you ſhall or may in the abſence of the Lievtenant of the ſaid Countie make and appoint ſuch Captaines and other Officers as ſhall be requiſite for the ſer<g ref="char:EOLhyphen"/>vice and defence of that Countie, and to remove them out of their places, and to make others from time to time, as you ſhall thinke fit for that purpoſe.</p>
+            <p>You or any two or more of you ſhall or may require ſtrong Watches, and Wards, to be ſet by the Conſtables or ſuch other perſons as you ſhall thinke meete in all convenient places in that county, for the peace and ſafetie thereof.</p>
+            <p>You or the greater part of you, whereof two to be Members of the houſe of Commons, may joine in aſſotiation with the adjacent counties for the mutuall defence each of others county.</p>
+            <p>You or any one or more of you ſhall or may apprehend all ſuch perſons as ſhall oppoſe you, or refuſe to obey you in the premiſes, and to ſend him or them in ſafe cuſtody up to the Par<g ref="char:EOLhyphen"/>liament, or the Committte of Parliament for the defence of the Kingdome, to be proceeded with according to juſtice.</p>
+            <p>You and every of you ſhall obſerve and exe<g ref="char:EOLhyphen"/>cute all ſuch further directions and inſtructions
+<pb n="14" facs="tcp:172601:9"/>as you ſhall from time to time receive from both houſes of Parliament, as likewiſe from the Com<g ref="char:EOLhyphen"/>mittee of the Lords and Commons appointed to take care for the ſurety of the Kingdome, and whatſoever you ſhall doe therein or any other perſon in ayd arid aſſiſtance of you, it ſhall be accepted as good and acceptable ſervice to the Kingdome. And for their and your ſo doing, they and you ſhall be defended and protected by the authority of Parliament, and reſolution of the Lords and Commons to protect thoſe that ſhall obey and further their commands, you ſhall publiſh and declare upon all occaſions for the better encouragement of the Subjects of this Kingdome in that behalfe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
